@@ -28,9 +28,14 @@ button{
     width: 200px;
     color: white;
     border-radius: 8px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+
 }
 
 #increment-btn {
     background: rgb(246, 21, 21);
+}
+
+#save-btn {
+    background: rgb(14, 148, 14);
 }
