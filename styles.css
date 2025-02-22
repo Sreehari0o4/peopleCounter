@@ -10,8 +10,7 @@
 
 body {
     background-color: rgb(240, 234, 227);
-    background-image: url("c4.jpeg");
-    background-size: cover;
+    background-image: url("c4.jpeg");    background-size: cover;
     font-family: "coolC";
     font-weight: bold;
     text-align: center;
